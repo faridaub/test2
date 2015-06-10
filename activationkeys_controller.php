@@ -18,5 +18,7 @@ class ActivationkeysController extends AppController {
 	var $layout = "cake_layout";
     var $scaffold;
 	
+	//helko
+	
 }
 ?>
